@@ -1,30 +1,30 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
+    "title": "Erick Rizzo Ratão | Mapa de Carreira em Tecnologia",
     "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "author": "Erick Rizzo Ratão",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
+    "name": "Erick Rizzo Ratão",
+    "headline": "Desenvolvimento Web e mobile",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
+    "photoAlt": "Foto profissional de Erick Rizzo Ratão",
     "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
+      "label": "erickrizzo8@gmail.com",
       "url": "mailto:sarah.lima@example.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/erick-rizzo",
+      "url": "https://www.linkedin.com/in/erick-rizzo"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/ErickRizzoRatao",
+      "url": "https://github.com/ErickRizzoRatao"
     }
   ],
   "careerSteps": [
